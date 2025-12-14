@@ -4,8 +4,8 @@ Proyek UAS Mata Kuliah Pemrograman Berorientasi Objek
 Semester 3 - D4 Manajemen Informatika  
 Universitas Negeri Surabaya  
 
-**Oleh**: [Nama Lengkap Kamu]  
-**NIM**: [NIM Kamu]
+**Oleh**: Najwa Afina Syifa Nailah 
+**NIM**: 24091397066
 
 ## Deskripsi
 Game 2D defense shooter menggunakan Python + Pygame.  
